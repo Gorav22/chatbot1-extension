@@ -19,7 +19,7 @@ This extension provides a chatbot functionality to your web browser, enabling yo
 * Enhance accessibility by enabling voice- or text-based communication with websites.
 * Personalize your web browsing experience with a responsive and helpful AI companion.
 
-## how to use
+**how to use:**
 -  clone the repo.
 -  create a google gemini api key
 -  create a variable in background.js named as API_KEY at the top and assign your api key as a value to this variable.
